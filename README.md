@@ -8,6 +8,9 @@ This project demonstrates image compression using K-Means clustering. The code a
 ## Compressed Image
 ![Compressed Image](https://github.com/Mohd-Monis/K-Means-Image-Compressor/blob/main/compressed_preview.PNG)
 
+## Compressed 19KB file to 14KB
+![Compressoin](https://github.com/Mohd-Monis/K-Means-Image-Compressor/blob/main/Compression.png)
+
 ## Features
 
 - Compress an image by reducing the number of colors.
